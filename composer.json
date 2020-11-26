@@ -24,7 +24,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "ogestor/eloquence-base": "dev-master"
+        "ogestor/eloquence-base": "^6.0"
     },
     "require-dev": {
         "phpunit/phpunit": "4.5.0",
